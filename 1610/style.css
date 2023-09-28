@@ -1,0 +1,159 @@
+.block1{
+    width: 300px;
+    height: 300px;
+    background-color: brown;
+    position: relative;
+    left: 150px;
+}
+.block1 div{
+    width: 100px;
+    height: 100px;
+    position: absolute;
+}
+.box1{
+left: 50px;
+top: 50px;
+background-color: darkred;
+border-top: 3px solid blue;
+border-left: 3px solid blue;
+}
+.box2{
+    left: 70px;
+    top: 70px;
+    z-index: 1;
+    background-color: red; 
+    border: 3px solid black;
+}
+.box3{
+    left: 90px;
+    top: 90px;
+    background-color: darkorchid;
+    border-bottom: 3px solid black;
+    border-right: 3px solid black;
+}
+.block2{
+    width: 300px;
+    height: 300px;
+    background-color: chartreuse;
+    position: relative;
+    left: 800px;
+}
+.block2 div{
+    width: 100px;
+    height: 100px;
+    position: absolute;
+}
+.box1{
+    left: 50px;
+    top: 50px;
+    background-color: darkred;
+    border-top: 3px solid blue;
+    border-left: 3px solid blue;
+}
+.box2{
+    left: 70px;
+    top: 70px;
+    z-index: 1;
+    background-color: darkred;
+    border: 3px solid black;
+}
+.box3{
+    left: 90px;
+    top: 90px;
+    background-color: blueviolet;
+    border-bottom: 3px solid black;
+    border-right: 3px solid black;
+}
+.block3{
+    width: 300px;
+    height: 300px;
+    background-color: chocolate;
+    position:relative;
+    left: 150px;
+    top: 150px;
+}
+.block3 div{
+    width: 100px;
+    height: 100px;
+    position: absolute;
+}
+.box1{
+    left: 50px;
+    top: 50px;
+    background-color: blue;
+    border-top: 3px solid black;
+    border-left: 3px solid red;
+}
+.box2{
+    left: 70px;
+    top: 70px;
+    z-index: 1;
+    background-color: brown;
+    border: 3px solid black
+}
+.box3{
+    left: 90px;
+    top: 90px;
+    background-color: darkmagenta;
+    border-bottom: 3px solid black;
+    border-right: 3px solid black;
+}
+.block4{
+    width: 300px;
+    height: 300px;
+    background-color: chocolate;
+    position:relative;
+    left: 1500px;
+    top: 1px;
+}
+.block4 div{
+    width: 100px;
+    height: 100px;
+    position: absolute;
+}
+.box1{
+    left: 50px;
+    top: 50px;
+    background-color: blue;
+    border-top: 3px solid black;
+    border-left: 3px solid red;
+}
+.box2{
+    left: 70px;
+    top: 70px;
+    z-index: 1;
+    background-color: brown;
+    border: 3px solid black
+}
+.box3{
+    left: 90px;
+    top: 90px;
+    background-color: darkmagenta;
+    border-bottom: 3px solid black;
+    border-right: 3px solid black;
+}
+.block5{
+    width: 300px;
+    height: 300px;
+    background-color: chocolate;
+    position:relative;
+    left: 150px;
+}
+.block5 div{
+    width: 100px;
+    height: 100px;
+    position: absolute;
+}
+.box1{
+    left: 50px;
+    top: 50px;
+    background-color: blue;
+    border-top: 3px solid black;
+    border-left: 3px solid red;
+}
+.box2{
+    left: 70px;
+    top: 70px;
+    z-index: 1;
+
+}
